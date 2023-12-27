@@ -12,5 +12,5 @@ I am a 2nd-year undergraduate student at [Universiti Teknologi Malaysia (UTM)](h
 
 ## 📈 My GitHub Stats
 
-![DERF's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![DERF's GitHub stats](https://github-readme-stats.vercel.app/api?username=DERF&show_icons=true&theme=radical)
 
