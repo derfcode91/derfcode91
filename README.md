@@ -1,5 +1,4 @@
-![Typing GIF](https://github.com/Hacking-Notes/Hacking-Notes/blob/main/typing.gif?raw=true)
-
+<img src="https://github.com/Hacking-Notes/Hacking-Notes/blob/main/typing.gif?raw=true" width="200" alt="Typing GIF">
 
 | Name                                     |
 |------------------------------------------|
