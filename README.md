@@ -7,9 +7,4 @@
 ## About Me
 I am a 2nd-year undergraduate student at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/), where I'm diving into the world of Network Security, 
 
-## Motivational Quote
-"Harapkan pagar, pagar tak boleh diharap, biarlah tak pandai yang penting rajin usaha"
-
-## 📈 My GitHub Stats
-![DERF's GitHub stats](https://github-readme-stats.vercel.app/api?username=derfcode91&show_icons=true&theme=radical)
 
