@@ -5,6 +5,4 @@
 
 
 ## About Me
-I am a 2nd-year undergraduate student at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/), where I'm diving into the world of Network Security, 
-
-
+I am a 4th-year undergraduate student at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/)
