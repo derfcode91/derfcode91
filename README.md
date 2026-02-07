@@ -5,4 +5,4 @@
 
 ## About Me
 I am a 4th-year undergraduate student at [Universiti Teknologi Malaysia (UTM)](https://www.utm.my/). 
-I am currently undergoing my internship.
+I am currently finished my internship.
